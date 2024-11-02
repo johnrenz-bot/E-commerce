@@ -1,0 +1,99 @@
+* {
+    cursor: pointer;
+}
+#img {
+    border-radius: 50%;
+    background-color: rgb(68, 68, 66);
+}
+#img:hover {
+    scale: .9;
+}
+body {
+    background-color: rgb(77, 75, 75);
+}
+.mt-4 {
+    font-family: verdana;
+    font-weight: bold;
+}
+
+#basic-addon1 {
+    border: solid rgb(77, 73, 73);
+    
+}
+#basic-addon2 {
+    border: solid rgb(77, 73, 73);
+    
+}
+#Email {
+    font-family: verdana;
+    font-weight: bold;
+    box-shadow: none;
+    background-color: #464646;
+    border: solid rgb(37, 36, 36);
+}
+#Number {
+    font-family: verdana;
+    font-weight: bold;
+    box-shadow: none;
+    background-color: #464646;
+    border: solid rgb(37, 36, 36);
+}
+
+#payment {
+    font-family: verdana;
+    font-weight: bold;
+}
+
+#gcash {
+    background-color: rgb(4, 23, 53);
+    border: 50px solid;
+}
+
+#paypal {
+    background-color: rgb(4, 23, 53);
+    border: 50px solid;
+}
+
+#Confirm {
+    margin-bottom: 35px;
+    text-decoration: none;
+    list-style: none;
+}
+
+#Confirm a {
+    color: #464646;
+    font-family: verdana;
+    font-weight: bold;
+    text-decoration: none;
+    list-style: none;
+}
+#Confirm:hover {
+    scale: 1.1;
+}
+
+
+#Confirm a:hover {
+color: rgb(3, 65, 3);
+}
+
+#basic-addon1 a:hover {
+    scale: 1.2;
+}
+
+#basic-addon2 a:hover {
+    scale: 1.2;
+}
+
+
+#gcash:hover {
+   scale: 1.1;
+}
+
+#paypal:hover {
+    scale: 1.1;
+}
+
+#payment a:hover {
+    color: darkgreen;
+}
+
